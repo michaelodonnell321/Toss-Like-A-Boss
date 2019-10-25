@@ -70,8 +70,6 @@ For detailed instructions, please reference this guide: [AWS S3 Setup Guide](htt
 
 ## Screen Shot
 
-Include one or two screen shots of your project here (optional). Remove if unused.
-
 ![screenshot1](/screenshots/screenshot1.png)
 ![screenshot2](/screenshots/screenshot2.png)
 ![screenshot3](/screenshots/screenshot3.png)
