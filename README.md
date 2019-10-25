@@ -2,8 +2,7 @@
 
 A drag-and-drop game designed to teach users the appropriate receptacle (garbage, recycling, or compost) that should be used for disposal of common items.  The application allows for organizations to register for their own accounts, schedule contests, create teams, and invite their employees to compete against one another and see how they rank in a company leaderboard.
 
-Link to Application: Coming Soon
-
+Link to Application: https://tosslikeaboss.herokuapp.com
 ## Built With
 
 React, React Drag-and-Drop, Redux, Redux-Sagas, Node, Express, PostgreSQL, Material-UI, Passport, AWS S3, and MomentJS.
