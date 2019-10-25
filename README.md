@@ -67,6 +67,13 @@ For detailed instructions, please reference this guide: [AWS S3 Setup Guide](htt
 </CORSRule>
 </CORSConfiguration>`
 
+## Screenshots
+
+![Main game](https://drive.google.com/open?id=1Zb_LrKlygvkgoEqw8LTcO8Y5Jo9eSl1l)
+![Game results](https://drive.google.com/open?id=10DlKQLN2ATvnYKS3mJpcDr6LXvhB_XCa)
+![Organization screen](https://drive.google.com/open?id=1AwbFPXoD090y4CjT9aVsv6_i_yZ-rZRW)
+![Administrative view](https://drive.google.com/open?id=17qwUMxd6yaOSqX_ev4LYBY07OJlwRm96)
+![Add user](https://drive.google.com/open?id=19y1ftlocT0ghK6S2tRWM9KsMSpIi0tex)
 
 ## Documentation
 
